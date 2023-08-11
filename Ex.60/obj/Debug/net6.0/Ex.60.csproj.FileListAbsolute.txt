@@ -1,0 +1,15 @@
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/bin/Debug/net6.0/Ex.60
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/bin/Debug/net6.0/Ex.60.deps.json
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/bin/Debug/net6.0/Ex.60.runtimeconfig.json
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/bin/Debug/net6.0/Ex.60.dll
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/bin/Debug/net6.0/Ex.60.pdb
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/obj/Debug/net6.0/Ex.60.csproj.AssemblyReference.cache
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/obj/Debug/net6.0/Ex.60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/obj/Debug/net6.0/Ex.60.AssemblyInfoInputs.cache
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/obj/Debug/net6.0/Ex.60.AssemblyInfo.cs
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/obj/Debug/net6.0/Ex.60.csproj.CoreCompileInputs.cache
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/obj/Debug/net6.0/Ex.60.dll
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/obj/Debug/net6.0/refint/Ex.60.dll
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/obj/Debug/net6.0/Ex.60.pdb
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/obj/Debug/net6.0/Ex.60.genruntimeconfig.cache
+/Users/gulnazflower/Library/Mobile Documents/com~apple~CloudDocs/Studying IT/Знакомство с языками программирования/C# Homework 8/Ex.60/obj/Debug/net6.0/ref/Ex.60.dll
